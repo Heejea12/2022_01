@@ -1,9 +1,11 @@
 #include "stdafx.h"
+#include "01_Variable/VariableDemo.h"
 
 int main()
 {
-	cout << "Hello" << endl;
-	system("pause");
+	Execute();
 
+	
+	system("pause");
 	return 0;
-}
+} 
