@@ -123,10 +123,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01_Variable\ByteSizeDemo.cpp" />
+    <ClCompile Include="01_Variable\EnumDemo.cpp" />
+    <ClCompile Include="01_Variable\StructDemo.cpp" />
+    <ClCompile Include="01_Variable\TypedefDemo.cpp" />
     <ClCompile Include="01_Variable\VariableDemo.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="01_Variable\ByteSizeDemo.h" />
+    <ClInclude Include="01_Variable\EnumDemo.h" />
+    <ClInclude Include="01_Variable\StructDemo.h" />
+    <ClInclude Include="01_Variable\TypedefDemo.h" />
     <ClInclude Include="01_Variable\VariableDemo.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>

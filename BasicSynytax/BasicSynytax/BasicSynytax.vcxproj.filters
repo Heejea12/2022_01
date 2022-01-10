@@ -5,10 +5,34 @@
     <ClCompile Include="01_Variable\VariableDemo.cpp">
       <Filter>01_Variable</Filter>
     </ClCompile>
+    <ClCompile Include="01_Variable\ByteSizeDemo.cpp">
+      <Filter>01_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Variable\EnumDemo.cpp">
+      <Filter>01_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Variable\TypedefDemo.cpp">
+      <Filter>01_Variable</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Variable\StructDemo.cpp">
+      <Filter>01_Variable</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="01_Variable\VariableDemo.h">
+      <Filter>01_Variable</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Variable\ByteSizeDemo.h">
+      <Filter>01_Variable</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Variable\EnumDemo.h">
+      <Filter>01_Variable</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Variable\TypedefDemo.h">
+      <Filter>01_Variable</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Variable\StructDemo.h">
       <Filter>01_Variable</Filter>
     </ClInclude>
   </ItemGroup>
