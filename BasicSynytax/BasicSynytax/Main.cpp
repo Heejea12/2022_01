@@ -4,10 +4,12 @@
 #include "01_Variable/EnumDemo.h"
 #include "01_Variable/TypedefDemo.h"
 #include "01_Variable/StructDemo.h"
+#include "02_Operator/ArithmeticDemo.h"
+#include "02_Operator/IncreasementDemo.h"
 
 int main()
 {
-	StructDemo::Execute();
+	IncreasementDemo::Execute();
 
 	
 	system("pause");

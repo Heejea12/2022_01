@@ -21,7 +21,6 @@ void StructDemo::Initialize()
 	normalItem.positionY = 20.0f;
 	normalItem.spawnRate = 20.0f;
 
-
 	//중괄호 초기화 (<= C++11)
 	rareItem = { "레어 아이템", 100.0f, 200.0f, 1.0f };
 }

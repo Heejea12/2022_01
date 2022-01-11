@@ -17,6 +17,15 @@
     <ClCompile Include="01_Variable\StructDemo.cpp">
       <Filter>01_Variable</Filter>
     </ClCompile>
+    <ClCompile Include="02_Operator\ArithmeticDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="02_Operator\IncreasementDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="02_Operator\BitDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -35,10 +44,22 @@
     <ClInclude Include="01_Variable\StructDemo.h">
       <Filter>01_Variable</Filter>
     </ClInclude>
+    <ClInclude Include="02_Operator\ArithmeticDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Operator\IncreasementDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Operator\BitDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="01_Variable">
       <UniqueIdentifier>{27dabdf5-025f-41c2-8ad0-ac369661392f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02_Operator">
+      <UniqueIdentifier>{0b67a557-9138-4f9e-9718-ad2e6db532a2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

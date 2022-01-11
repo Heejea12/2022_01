@@ -128,6 +128,9 @@
     <ClCompile Include="01_Variable\StructDemo.cpp" />
     <ClCompile Include="01_Variable\TypedefDemo.cpp" />
     <ClCompile Include="01_Variable\VariableDemo.cpp" />
+    <ClCompile Include="02_Operator\ArithmeticDemo.cpp" />
+    <ClCompile Include="02_Operator\BitDemo.cpp" />
+    <ClCompile Include="02_Operator\IncreasementDemo.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -136,6 +139,9 @@
     <ClInclude Include="01_Variable\StructDemo.h" />
     <ClInclude Include="01_Variable\TypedefDemo.h" />
     <ClInclude Include="01_Variable\VariableDemo.h" />
+    <ClInclude Include="02_Operator\ArithmeticDemo.h" />
+    <ClInclude Include="02_Operator\BitDemo.h" />
+    <ClInclude Include="02_Operator\IncreasementDemo.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
