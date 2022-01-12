@@ -131,6 +131,8 @@
     <ClCompile Include="02_Operator\ArithmeticDemo.cpp" />
     <ClCompile Include="02_Operator\BitDemo.cpp" />
     <ClCompile Include="02_Operator\IncreasementDemo.cpp" />
+    <ClCompile Include="02_Operator\RelationalDemo.cpp" />
+    <ClCompile Include="02_Operator\StaticCastDemo.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -142,6 +144,8 @@
     <ClInclude Include="02_Operator\ArithmeticDemo.h" />
     <ClInclude Include="02_Operator\BitDemo.h" />
     <ClInclude Include="02_Operator\IncreasementDemo.h" />
+    <ClInclude Include="02_Operator\RelationalDemo.h" />
+    <ClInclude Include="02_Operator\StaticCastDemo.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -26,6 +26,12 @@
     <ClCompile Include="02_Operator\BitDemo.cpp">
       <Filter>02_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="02_Operator\RelationalDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="02_Operator\StaticCastDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -51,6 +57,12 @@
       <Filter>02_Operator</Filter>
     </ClInclude>
     <ClInclude Include="02_Operator\BitDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Operator\RelationalDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="02_Operator\StaticCastDemo.h">
       <Filter>02_Operator</Filter>
     </ClInclude>
   </ItemGroup>
