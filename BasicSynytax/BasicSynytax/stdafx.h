@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <Windows.h>
+#include <string>
 using namespace std;
 
 #define TEXTCOLOR_RED SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED);

@@ -9,10 +9,12 @@
 #include "02_Operator/BitDemo.h"
 #include "02_Operator/RelationalDemo.h"
 #include "02_Operator/StaticCastDemo.h"
+#include "02_Operator/TernaryDemo.h"
+#include "03_ControlStatement/IfDemo.h"
 
 int main()
 {
-	StaticCastDemo::Execute();
+	IfDemo::Execute();
 
 	
 	system("pause");

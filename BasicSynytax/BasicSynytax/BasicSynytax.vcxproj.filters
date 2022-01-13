@@ -5,9 +5,6 @@
     <ClCompile Include="01_Variable\VariableDemo.cpp">
       <Filter>01_Variable</Filter>
     </ClCompile>
-    <ClCompile Include="01_Variable\ByteSizeDemo.cpp">
-      <Filter>01_Variable</Filter>
-    </ClCompile>
     <ClCompile Include="01_Variable\EnumDemo.cpp">
       <Filter>01_Variable</Filter>
     </ClCompile>
@@ -32,12 +29,18 @@
     <ClCompile Include="02_Operator\StaticCastDemo.cpp">
       <Filter>02_Operator</Filter>
     </ClCompile>
+    <ClCompile Include="02_Operator\TernaryDemo.cpp">
+      <Filter>02_Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="03_ControlStatement\IfDemo.cpp">
+      <Filter>03_ControlStatement</Filter>
+    </ClCompile>
+    <ClCompile Include="01_Variable\ByteSizeDemo.cpp">
+      <Filter>01_Variable</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
-    <ClInclude Include="01_Variable\VariableDemo.h">
-      <Filter>01_Variable</Filter>
-    </ClInclude>
     <ClInclude Include="01_Variable\ByteSizeDemo.h">
       <Filter>01_Variable</Filter>
     </ClInclude>
@@ -65,6 +68,15 @@
     <ClInclude Include="02_Operator\StaticCastDemo.h">
       <Filter>02_Operator</Filter>
     </ClInclude>
+    <ClInclude Include="02_Operator\TernaryDemo.h">
+      <Filter>02_Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="03_ControlStatement\IfDemo.h">
+      <Filter>03_ControlStatement</Filter>
+    </ClInclude>
+    <ClInclude Include="01_Variable\VariableDemo.h">
+      <Filter>01_Variable</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="01_Variable">
@@ -72,6 +84,9 @@
     </Filter>
     <Filter Include="02_Operator">
       <UniqueIdentifier>{0b67a557-9138-4f9e-9718-ad2e6db532a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03_ControlStatement">
+      <UniqueIdentifier>{2d3a34d2-3339-4e04-b45f-359cd52413dc}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
