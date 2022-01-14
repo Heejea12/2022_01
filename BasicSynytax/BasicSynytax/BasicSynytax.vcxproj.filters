@@ -38,6 +38,15 @@
     <ClCompile Include="01_Variable\ByteSizeDemo.cpp">
       <Filter>01_Variable</Filter>
     </ClCompile>
+    <ClCompile Include="99_Homework\HW_0113.cpp">
+      <Filter>99_Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="03_ControlStatement\SwitchDemo.cpp">
+      <Filter>03_ControlStatement</Filter>
+    </ClCompile>
+    <ClCompile Include="04_Loop\ForDemo.cpp">
+      <Filter>04_Loop</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -77,6 +86,15 @@
     <ClInclude Include="01_Variable\VariableDemo.h">
       <Filter>01_Variable</Filter>
     </ClInclude>
+    <ClInclude Include="99_Homework\HW_0113.h">
+      <Filter>99_Homework</Filter>
+    </ClInclude>
+    <ClInclude Include="03_ControlStatement\SwitchDemo.h">
+      <Filter>03_ControlStatement</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Loop\ForDemo.h">
+      <Filter>04_Loop</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="01_Variable">
@@ -87,6 +105,12 @@
     </Filter>
     <Filter Include="03_ControlStatement">
       <UniqueIdentifier>{2d3a34d2-3339-4e04-b45f-359cd52413dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Homework">
+      <UniqueIdentifier>{ebb847d2-fc6e-4fd5-9fa2-9d43e1584740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04_Loop">
+      <UniqueIdentifier>{af323813-4a53-4a59-bcea-6d016abd397c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

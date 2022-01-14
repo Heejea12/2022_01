@@ -1,4 +1,8 @@
 #include "stdafx.h"
+//과제
+#include "99_Homework/HW_0113.h"
+
+//데모
 #include "01_Variable/VariableDemo.h"
 #include "01_Variable/ByteSizeDemo.h"
 #include "01_Variable/EnumDemo.h"
@@ -11,10 +15,13 @@
 #include "02_Operator/StaticCastDemo.h"
 #include "02_Operator/TernaryDemo.h"
 #include "03_ControlStatement/IfDemo.h"
+#include "03_ControlStatement/SwitchDemo.h"
+#include "04_Loop/ForDemo.h"
+
 
 int main()
 {
-	IfDemo::Execute();
+	ForDemo::Execute();
 
 	
 	system("pause");
