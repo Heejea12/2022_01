@@ -1,18 +1,18 @@
 #include "../stdafx.h"
-#include "ForDemo.h"
+#include "WhileDemo.h"
 
 
-void ForDemo::Initialize()
+void WhileDemo::Initialize()
 {
 	
 }
 
-void ForDemo::Print()
+void WhileDemo::Print()
 {
 	PrintFile;
 	
 	int count;
-	cout << "반복회수 : !!!";
+	cout << "반복회수 : ";
 	cin >> count;
 
 	int sum = 0;
@@ -26,7 +26,7 @@ void ForDemo::Print()
 
 }
 
-void ForDemo::Execute()
+void WhileDemo::Execute()
 {
 	Initialize();
 	Print();

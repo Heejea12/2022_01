@@ -137,6 +137,7 @@
     <ClCompile Include="03_ControlStatement\IfDemo.cpp" />
     <ClCompile Include="03_ControlStatement\SwitchDemo.cpp" />
     <ClCompile Include="04_Loop\ForDemo.cpp" />
+    <ClCompile Include="04_Loop\WhileDemo.cpp" />
     <ClCompile Include="99_Homework\HW_0113.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
@@ -155,6 +156,7 @@
     <ClInclude Include="03_ControlStatement\IfDemo.h" />
     <ClInclude Include="03_ControlStatement\SwitchDemo.h" />
     <ClInclude Include="04_Loop\ForDemo.h" />
+    <ClInclude Include="04_Loop\WhileDemo.h" />
     <ClInclude Include="99_Homework\HW_0113.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>

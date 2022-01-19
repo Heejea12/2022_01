@@ -21,7 +21,8 @@
 
 int main()
 {
-	ForDemo::Execute();
+	TernaryDemo::Execute();
+	SwitchDemo::Execute();
 
 	
 	system("pause");

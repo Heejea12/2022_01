@@ -47,6 +47,9 @@
     <ClCompile Include="04_Loop\ForDemo.cpp">
       <Filter>04_Loop</Filter>
     </ClCompile>
+    <ClCompile Include="04_Loop\WhileDemo.cpp">
+      <Filter>04_Loop</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -93,6 +96,9 @@
       <Filter>03_ControlStatement</Filter>
     </ClInclude>
     <ClInclude Include="04_Loop\ForDemo.h">
+      <Filter>04_Loop</Filter>
+    </ClInclude>
+    <ClInclude Include="04_Loop\WhileDemo.h">
       <Filter>04_Loop</Filter>
     </ClInclude>
   </ItemGroup>
